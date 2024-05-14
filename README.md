@@ -6,4 +6,4 @@ This repository will serve 2 primary purposes:
 # Overview
 1. [Framework] Encoder-Decoder System
 2. [Framework] Transformer Model
-3. [Framework] <UPCOMING>
+3. UPCOMING!
