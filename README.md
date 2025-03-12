@@ -1,9 +1,8 @@
 # BioBits
-This repository will serve 2 primary purposes: 
-1. Serve as a sandbox for implementing, testing, and evaluating computational biology models from literature. 
-2. Store teaching materials for my YouTube channel - BioBits (https://www.youtube.com/channel/UC34sHB8EmKdvHR3rSqu21IQ)
+This repository will be a sandbox for my exploration of scientific literature in: 
+1. Bioinformatics
+2. ML Theory
+3. Cancer Biology
+4. Human Genetics
 
-# Overview
-1. [Framework] Encoder-Decoder System
-2. [Framework] Transformer Model
-3. UPCOMING!
+These will include my thoughts on papers, a sandbox for implementing/testing models, and materials used for videos on my YouTube Channel (BioBits)
